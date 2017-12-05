@@ -381,3 +381,44 @@ a:link, a:visited {
         padding: 15.0px !important;
     }
 }
+
+p {
+  margin-top: .25em;
+  margin-bottom: .25em;
+}
+
+.studies {
+  padding-left: 20px;
+}
+
+.interest-link {
+  padding-left: 1em;
+  font-size: 88%;
+}
+  a {
+    outline: none;
+    text-decoration: none;
+    font-weight:600;
+    padding: 2px 1px 0;
+  }
+
+  a:link {
+    color: #5B0A87;
+  }
+
+  a:visited {
+    color: #AD73C8;
+  }
+
+  a:focus {
+    background: #F3E6FF;
+  }
+
+  a:hover {
+    background: #F3E6FF;
+  }
+
+  a:active {
+    background: #781DA0;
+    color: #FAF9F5;
+  }
